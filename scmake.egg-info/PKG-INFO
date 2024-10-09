@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: scmake
+Version: 1.0.0
+Summary: A tool for expanding POSCAR files
+Home-page: https://github.com/yourusername/scmake
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+# This is a tool designed to generate supercell from POSCAR. Cartesian and Direct format are both supported.
+# Usage:  scmake 2 2 2      ----> This command will automatically use ./POSCAR and generate the supercell.

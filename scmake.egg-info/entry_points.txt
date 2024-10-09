@@ -1,0 +1,2 @@
+[console_scripts]
+scmake = scmake.expand_poscar:main

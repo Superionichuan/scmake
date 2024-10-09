@@ -1,0 +1,10 @@
+README.md
+setup.py
+scmake/__init__.py
+scmake/expand_poscar.py
+scmake.egg-info/PKG-INFO
+scmake.egg-info/SOURCES.txt
+scmake.egg-info/dependency_links.txt
+scmake.egg-info/entry_points.txt
+scmake.egg-info/requires.txt
+scmake.egg-info/top_level.txt
