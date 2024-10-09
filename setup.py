@@ -18,7 +18,7 @@ setup(
     description='A tool for expanding POSCAR files',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/scmake',
+    url='https://github.com/Superionichuan/scmake',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
