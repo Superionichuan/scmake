@@ -13,8 +13,8 @@ setup(
             'scmake = scmake.expand_poscar:main',  # 将 scmake 命令行与 main 函数绑定
         ],
     },
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Sun Shichuan',
+    author_email='shichuan.sun@ntu.edu.sg',
     description='A tool for expanding POSCAR files',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
